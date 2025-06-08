@@ -1,0 +1,68 @@
+{
+	"name": "LavandaSerenante",
+	"plugin-id": "Sprite",
+	"sid": 332173374009766,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 266,
+						"height": 337,
+						"originX": -0.6428571428571429,
+						"originY": 0.7833827893175074,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 2798445,
+						"collisionPoly": {
+							"points": [
+								0.49624060150375937,
+								0.017804154302670624,
+								0.6165413533834586,
+								0.05934718100890208,
+								0.8421052631578947,
+								0.2433234421364985,
+								0.9210526315789473,
+								0.36795252225519287,
+								0.8872180451127819,
+								0.6172106824925816,
+								0.8045112781954887,
+								0.7655786350148368,
+								0.5601503759398496,
+								0.9881305637982196,
+								0.5150375939849624,
+								0.9881305637982196,
+								0.24436090225563908,
+								0.744807121661721,
+								0.18045112781954886,
+								0.36795252225519287,
+								0.18045112781954886,
+								0.3086053412462908,
+								0.23684210526315788,
+								0.2166172106824926
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 556202976914867,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

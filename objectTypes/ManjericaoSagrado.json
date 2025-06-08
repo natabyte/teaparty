@@ -1,0 +1,70 @@
+{
+	"name": "ManjericaoSagrado",
+	"plugin-id": "Sprite",
+	"sid": 599342959677593,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 464,
+						"height": 333,
+						"originX": 1.0366379310344827,
+						"originY": 0.2822822822822823,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 7470474,
+						"collisionPoly": {
+							"points": [
+								0.3103448275862069,
+								0.14714714714714713,
+								0.5603448275862069,
+								0.15315315315315314,
+								0.6681034482758621,
+								0.17717717717717718,
+								0.8448275862068966,
+								0.4144144144144144,
+								0.8836206896551724,
+								0.7567567567567568,
+								0.8426724137931034,
+								0.8738738738738738,
+								0.7564655172413793,
+								0.918918918918919,
+								0.47844827586206895,
+								0.948948948948949,
+								0.10991379310344827,
+								0.918918918918919,
+								0.008620689655172414,
+								0.8708708708708709,
+								0.02586206896551724,
+								0.46546546546546547,
+								0.10344827586206896,
+								0.2912912912912913,
+								0.19827586206896552,
+								0.2012012012012012
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 394400901896931,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

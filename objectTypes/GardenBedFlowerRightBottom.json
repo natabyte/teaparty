@@ -1,0 +1,99 @@
+{
+	"name": "GardenBedFlowerRightBottom",
+	"plugin-id": "Sprite",
+	"sid": 786707804240373,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 954595006668187
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 470,
+						"height": 300,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 7731287,
+						"collisionPoly": {
+							"points": [
+								0.04544547872340425,
+								0,
+								0.9791514295212764,
+								0.009414062500000023,
+								0.9811502659574453,
+								0.8617968749999995,
+								0.8975398936170208,
+								0.8741080729166659,
+								0.03106299867021277,
+								0.8753515625000015,
+								0.03500664893617021,
+								0.13863281250000004
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 831034336711127,
+				"name": "Normal",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 470,
+						"height": 300,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 3892456,
+						"collisionPoly": {
+							"points": [
+								0.04893617021276596,
+								0,
+								0.9787234042553191,
+								0.03333333333333333,
+								0.9106382978723404,
+								0.8966666666666666,
+								0.0425531914893617,
+								0.8366666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 238077787800658,
+				"name": "Blocked",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

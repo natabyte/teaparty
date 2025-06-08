@@ -1,0 +1,72 @@
+{
+	"name": "GardenShop",
+	"plugin-id": "Sprite",
+	"sid": 329956880032321,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 800140156485942
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 458,
+						"height": 387,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 3890524,
+						"collisionPoly": {
+							"points": [
+								0.06474820143884892,
+								0,
+								0.9376498800959233,
+								0,
+								0.9568345323741008,
+								0.048295454545454544,
+								1,
+								0.45170454545454547,
+								1,
+								0.5213068181818182,
+								0.9614667640887294,
+								0.5328313654119317,
+								0.9595698441247008,
+								0.9923872514204553,
+								0.045563549160671464,
+								0.9943181818181818,
+								0.04042547212230214,
+								0.5287919477982961,
+								0,
+								0.5158136541193177,
+								0,
+								0.3806818181818182
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 256802404383174,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

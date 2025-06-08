@@ -1,0 +1,89 @@
+{
+	"name": "GardenToolbox",
+	"plugin-id": "Sprite",
+	"sid": 588341640720252,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 646524185287169
+		},
+		{
+			"behaviorId": "shadowcaster",
+			"name": "ShadowCaster",
+			"sid": 875502515202130
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 349,
+						"height": 369,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6099087,
+						"collisionPoly": {
+							"points": [
+								0.49285316467285156,
+								0.1878528594970703,
+								0.5251874923706055,
+								0.24861431121826172,
+								0.6588325500488281,
+								0.2581596374511719,
+								0.7908096313476562,
+								0.2115936279296875,
+								0.8333168029785156,
+								0.44142913818359375,
+								0.895111083984375,
+								0.5034408569335938,
+								0.91015625,
+								0.7236328125,
+								0.8017578125,
+								0.796875,
+								0.697265625,
+								0.833984375,
+								0.5009765625,
+								0.833984375,
+								0.109375,
+								0.779296875,
+								0.0732421875,
+								0.759765625,
+								0.091796875,
+								0.5068359375,
+								0.15763092041015625,
+								0.2401580810546875,
+								0.2158203125,
+								0.177734375,
+								0.26059722900390625,
+								0.17727279663085938,
+								0.30950164794921875,
+								0.227569580078125
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 939913039766399,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

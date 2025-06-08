@@ -1,0 +1,62 @@
+{
+	"name": "GardenBedFlowerLeftTop",
+	"plugin-id": "Sprite",
+	"sid": 693608551228192,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 370480490450336
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 480,
+						"height": 238,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 9468761,
+						"collisionPoly": {
+							"points": [
+								0.08899739583333334,
+								0.0017069327731092437,
+								0.9333333333333333,
+								0.025210084033613446,
+								0.9335449218749992,
+								0.7481371454831934,
+								0.8618611653645829,
+								0.7747259059873952,
+								0.08125,
+								0.7563025210084033,
+								0.08391927083333334,
+								0.16892069327731093
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 593720809175176,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

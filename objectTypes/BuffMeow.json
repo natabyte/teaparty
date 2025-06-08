@@ -1,0 +1,72 @@
+{
+	"name": "BuffMeow",
+	"plugin-id": "Sprite",
+	"sid": 258853411506923,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 64,
+						"height": 64,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8632086,
+						"collisionPoly": {
+							"points": [
+								0.671875,
+								0.078125,
+								0.71875,
+								0.078125,
+								0.84375,
+								0.203125,
+								0.953125,
+								0.640625,
+								0.953125,
+								0.765625,
+								0.921875,
+								0.796875,
+								0.75,
+								0.890625,
+								0.640625,
+								0.890625,
+								0.34375,
+								0.84375,
+								0.140625,
+								0.6875,
+								0.109375,
+								0.640625,
+								0.109375,
+								0.59375,
+								0.1875,
+								0.3125,
+								0.234375,
+								0.203125
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 518696055007134,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

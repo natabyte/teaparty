@@ -1,0 +1,66 @@
+{
+	"name": "GardenBench",
+	"plugin-id": "Sprite",
+	"sid": 134783166527585,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 185376052180795
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 190,
+						"height": 145,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 2828138,
+						"collisionPoly": {
+							"points": [
+								0.19473684210526315,
+								0,
+								0.8105263157894737,
+								0.006896551724137931,
+								0.8315789473684211,
+								0.041379310344827586,
+								0.8315789473684211,
+								0.4206896551724138,
+								0.7947368421052632,
+								0.6551724137931034,
+								0.21578947368421053,
+								0.6551724137931034,
+								0.1736842105263158,
+								0.43448275862068964,
+								0.1736842105263158,
+								0.06206896551724138
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 747114250280821,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

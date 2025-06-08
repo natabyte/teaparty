@@ -1,0 +1,60 @@
+{
+	"name": "GardenShopMenuButtonExit",
+	"plugin-id": "Sprite",
+	"sid": 609983648726095,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 964,
+						"height": 955,
+						"originX": 0.5,
+						"originY": 0.5308900523560209,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 5301772,
+						"collisionPoly": {
+							"points": [
+								0.04771784232365145,
+								0.25968586387434556,
+								0.9512448132780082,
+								0.25968586387434556,
+								0.9968879668049793,
+								0.3036649214659686,
+								0.9968879668049793,
+								0.7633507853403141,
+								0.9512448132780082,
+								0.8083769633507853,
+								0.0487551867219917,
+								0.8083769633507853,
+								0.0031120331950207467,
+								0.7633507853403141,
+								0.0031120331950207467,
+								0.30471204188481676
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 572771984964524,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

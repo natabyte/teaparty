@@ -1,0 +1,83 @@
+{
+	"name": "GardenSunflower",
+	"plugin-id": "Sprite",
+	"sid": 408795790090266,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 961036556206952
+		},
+		{
+			"behaviorId": "shadowcaster",
+			"name": "ShadowCaster",
+			"sid": 143536036120642
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 200,
+						"height": 369,
+						"originX": 2.414772727272727,
+						"originY": 1.4204204204204205,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 4734521,
+						"collisionPoly": {
+							"points": [
+								0.47,
+								0.005420054200542005,
+								0.675,
+								0.01084010840108401,
+								0.81,
+								0.05962059620596206,
+								0.89,
+								0.13821138211382114,
+								0.895,
+								0.6585365853658537,
+								0.845,
+								0.8726287262872628,
+								0.8,
+								0.8861788617886179,
+								0.42,
+								0.9024390243902439,
+								0.25,
+								0.8861788617886179,
+								0.21,
+								0.8726287262872628,
+								0.07,
+								0.47696476964769646,
+								0.07,
+								0.43360433604336046,
+								0.155,
+								0.11382113821138211,
+								0.32,
+								0.02981029810298103
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 899504861762738,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

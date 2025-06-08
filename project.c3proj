@@ -1,0 +1,442 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 44202,
+	"name": "Tea Party",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Keyboard",
+			"name": "Keyboard",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Text",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Tiled Background",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Touch",
+			"name": "Touch",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "shadowlight",
+			"name": "Shadow light",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "DragnDrop",
+			"name": "Drag & Drop",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "EightDir",
+			"name": "8 Direction",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Pathfinding",
+			"name": "Pathfinding",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "bound",
+			"name": "Bound to layout",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "scrollto",
+			"name": "Scroll To",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "shadowcaster",
+			"name": "Shadow caster",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Solid",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "radialblur",
+			"name": "Radial blur",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
+	"uniqueId": "fclzm5sqonj",
+	"objectTypes": {
+		"items": [
+			"Touch",
+			"Keyboard",
+			"GardenBackground",
+			"GardenFencePole",
+			"GardenFenceLeftBottom",
+			"GardenFenceMiddleBottom",
+			"GardenFenceRightBottom",
+			"GardenFenceLeftTop",
+			"GardenFenceMiddleTop",
+			"GardenFenceRightTop",
+			"GardenApiary",
+			"GardenTree",
+			"GardenBench",
+			"GardenShop",
+			"GardenSunflower",
+			"GardenFlower",
+			"GardenBedFlowerLeftBottom",
+			"GardenBedFlowerRightBottom",
+			"ShadowLight",
+			"GardenBedFlowerLeftTop",
+			"GardenBedFlowerRightTop",
+			"GardenToolbox",
+			"Player",
+			"KitchenBackground",
+			"PortalKitchenGarden",
+			"PortalGardenKitchen",
+			"ManjericaoSagrado",
+			"AmoraSilvestre",
+			"LirioEncantado",
+			"LavandaSerenante",
+			"MargaridaApaixonante",
+			"GardenBee",
+			"KitchenBarrier",
+			"LittleCoin",
+			"LabelPontos",
+			"VariablePontos",
+			"GardenShopMenu",
+			"GardenShopMenuButtonExit",
+			"GardenShopButtonManjericaoSagrado",
+			"GardenShopButtonAmoraSilvestre",
+			"GardenShopButtonLirioEncantado",
+			"GardenShopButtonMargaridaApaixonante",
+			"GardenShopButtonCatNip",
+			"Neko",
+			"CatNip",
+			"GardenShopButtonLavandaSerenante",
+			"GardenBushBlocker",
+			"Sprite",
+			"StoveButton",
+			"KitchenShop",
+			"KitchenShopButton1Bg",
+			"KitchenShopButton1BaseText",
+			"KitchenShopButton1CooldownLabel",
+			"KitchenShopButton2Bg",
+			"KitchenShopButton3Bg",
+			"KitchenShopButton4Bg",
+			"KitchenShopButton5Bg",
+			"KitchenShopButton2BaseText",
+			"KitchenShopButton2CooldownLabel",
+			"KitchenShopButton3BaseText",
+			"KitchenShopButton3CooldownLabel",
+			"KitchenShopButton4BaseText",
+			"KitchenShopButton4CooldownLabel",
+			"KitchenShopButton5BaseText",
+			"KitchenShopButton6Bg",
+			"KitchenShopButton5CooldownLabel",
+			"KitchenShopButton6BaseText",
+			"BuffPointsMultiplier",
+			"BuffPointsMultiplierBg",
+			"BuffMeow",
+			"BuffPointsMultiplierLabel",
+			"BuffFrame"
+		],
+		"subfolders": []
+	},
+	"functionsName": "Functions",
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"Layout Garden",
+			"Layout Kitchen"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"Event sheet Garden",
+			"Event sheet Kitchen"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [
+				{
+					"name": "main.js",
+					"type": "application/javascript",
+					"sid": 412809212696588,
+					"script-info": {
+						"purpose": "main"
+					}
+				},
+				{
+					"name": "neko_fsm.js",
+					"type": "application/javascript",
+					"sid": 796527718398363,
+					"script-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "garden_layout.js",
+					"type": "application/javascript",
+					"sid": 490709427466327,
+					"script-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "kitchen_layout.js",
+					"type": "application/javascript",
+					"sid": 278619338952123,
+					"script-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "buffs_controller.js",
+					"type": "application/javascript",
+					"sid": 804185607910479,
+					"script-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "state.js",
+					"type": "application/javascript",
+					"sid": 930926223823036,
+					"script-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "time_utils.js",
+					"type": "application/javascript",
+					"sid": 841116592066611,
+					"script-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "buffs_hud.js",
+					"type": "application/javascript",
+					"sid": 869244760558598,
+					"script-info": {
+						"purpose": "none"
+					}
+				}
+			],
+			"subfolders": [],
+			"autoReloadOnPreview": true
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [
+				{
+					"name": "Silkscreen-Regular.ttf",
+					"type": "application/font-sfnt",
+					"sid": 410883542130148,
+					"file-info": {
+						"purpose": "none"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "icon-16.png",
+					"type": "image/png",
+					"sid": 211121158239653,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-32.png",
+					"type": "image/png",
+					"sid": 494610921611793,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-64.png",
+					"type": "image/png",
+					"sid": 897032171739555,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-128.png",
+					"type": "image/png",
+					"sid": 398437332439195,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-256.png",
+					"type": "image/png",
+					"sid": 911680443966414,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-512.png",
+					"type": "image/png",
+					"sid": 826257503176882,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "loading-logo.png",
+					"type": "image/png",
+					"sid": 263717787272130,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Timeline 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"flowcharts": {
+		"items": [
+			"Flowchart 1"
+		],
+		"subfolders": []
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"autoIncrementVersion": false,
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "",
+		"appId": "",
+		"pixelRounding": true,
+		"zAxisScale": "normalized",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-integer-scale",
+		"fullscreenQuality": "low",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"webgpu": "auto",
+		"gpuPreference": "high-performance",
+		"scriptsType": "module",
+		"framerateMode": "vsync",
+		"sampling": "nearest",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"exportFileStructure": "folders",
+		"uidAllocationMode": "increment"
+	},
+	"viewportWidth": 1536,
+	"viewportHeight": 1024,
+	"firstLayout": null
+}

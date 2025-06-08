@@ -1,0 +1,103 @@
+{
+	"name": "GardenBedFlowerRightTop",
+	"plugin-id": "Sprite",
+	"sid": 540485007376987,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 498304168613078
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 470,
+						"height": 219,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 355243,
+						"collisionPoly": {
+							"points": [
+								0.04436087101063828,
+								0.0018371860730593608,
+								0.9787234042553191,
+								0.0319634703196347,
+								0.9785239361702123,
+								0.8528021546803654,
+								0.8919173869680851,
+								0.8585723458904112,
+								0.04042553191489362,
+								0.8447488584474886,
+								0.03932845744680848,
+								0.7605682791095888
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 970901554551060,
+				"name": "Normal",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 470,
+						"height": 219,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 9906527,
+						"collisionPoly": {
+							"points": [
+								0.0574468085106383,
+								0,
+								0.9787234042553191,
+								0.0319634703196347,
+								0.9617021276595744,
+								0.8584474885844748,
+								0.9106382978723404,
+								0.8904109589041096,
+								0.09361702127659574,
+								0.8858447488584474,
+								0.0425531914893617,
+								0.8401826484018264
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 557187097880644,
+				"name": "Blocked",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

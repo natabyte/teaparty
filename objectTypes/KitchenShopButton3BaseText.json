@@ -1,0 +1,54 @@
+{
+	"name": "KitchenShopButton3BaseText",
+	"plugin-id": "Sprite",
+	"sid": 613404170988472,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1006,
+						"height": 155,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 4929853,
+						"collisionPoly": {
+							"points": [
+								0.9811133200795229,
+								0.2,
+								0.9612326043737575,
+								0.8516129032258064,
+								0.05765407554671968,
+								0.6580645161290323,
+								0.06063618290258449,
+								0.36129032258064514,
+								0.09940357852882704,
+								0.3032258064516129
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 483853631210509,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"name": "GardenFencePole",
+	"plugin-id": "Sprite",
+	"sid": 153480298527063,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 38,
+						"height": 159,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 5414906,
+						"collisionPoly": {
+							"points": [
+								0.3684210526315789,
+								0,
+								0.7105263157894737,
+								0,
+								0.9210526315789473,
+								0.031446540880503145,
+								1,
+								0.06289308176100629,
+								1,
+								0.9245283018867925,
+								0.5789473684210527,
+								1,
+								0.39473684210526316,
+								1,
+								0,
+								0.9308176100628931,
+								0,
+								0.06918238993710692,
+								0.07894736842105263,
+								0.012578616352201259
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 853547785009459,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

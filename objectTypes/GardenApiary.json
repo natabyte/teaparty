@@ -1,0 +1,74 @@
+{
+	"name": "GardenApiary",
+	"plugin-id": "Sprite",
+	"sid": 762171703304775,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 522977464875703
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 163,
+						"height": 242,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6475460,
+						"collisionPoly": {
+							"points": [
+								0.43558282208588955,
+								0.004132231404958678,
+								0.5337423312883436,
+								0.004132231404958678,
+								0.6012269938650306,
+								0.02066115702479339,
+								0.9079754601226994,
+								0.17768595041322313,
+								0.9079754601226994,
+								0.4380165289256198,
+								0.8718486388036815,
+								0.7535672778925643,
+								0.7739407592024538,
+								0.8345089746900832,
+								0.6764282975460115,
+								0.8240734762396701,
+								0.3330976802147243,
+								0.8257199121900839,
+								0.2356451303680983,
+								0.8233874612603319,
+								0.11884106595092031,
+								0.7539788868801657,
+								0.12269938650306748,
+								0.15289256198347106
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 910916024834972,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

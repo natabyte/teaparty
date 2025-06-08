@@ -1,0 +1,56 @@
+{
+	"name": "BuffFrame",
+	"plugin-id": "Sprite",
+	"sid": 347633886065695,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 92,
+						"height": 89,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 5675451,
+						"collisionPoly": {
+							"points": [
+								0.05434782608695652,
+								0,
+								1,
+								0.0449438202247191,
+								1,
+								0.9438202247191011,
+								0.9456521739130435,
+								1,
+								0.021739130434782608,
+								0.9775280898876404,
+								0,
+								0.9438202247191011
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 743061437390004,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

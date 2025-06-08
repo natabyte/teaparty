@@ -1,0 +1,60 @@
+{
+	"name": "BuffPointsMultiplier",
+	"plugin-id": "Sprite",
+	"sid": 796083741091981,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 64,
+						"height": 64,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 4228125,
+						"collisionPoly": {
+							"points": [
+								0.484375,
+								0.140625,
+								0.796875,
+								0.140625,
+								0.78125,
+								0.46875,
+								0.484375,
+								0.796875,
+								0.4375,
+								0.828125,
+								0.390625,
+								0.828125,
+								0.21875,
+								0.75,
+								0.1875,
+								0.203125
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 909967706835573,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

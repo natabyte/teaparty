@@ -1,0 +1,56 @@
+{
+	"name": "LittleCoin",
+	"plugin-id": "Sprite",
+	"sid": 157374308582165,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 45,
+						"height": 50,
+						"originX": 0.5333333333333333,
+						"originY": 0.51,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8676363,
+						"collisionPoly": {
+							"points": [
+								0.28888888888888886,
+								0.02,
+								0.9777777777777777,
+								0.24,
+								0.7333333333333333,
+								0.98,
+								0.24444444444444444,
+								0.98,
+								0.022222222222222223,
+								0.76,
+								0.022222222222222223,
+								0.24
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 438758047248135,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

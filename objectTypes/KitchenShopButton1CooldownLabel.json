@@ -1,0 +1,10 @@
+{
+	"name": "KitchenShopButton1CooldownLabel",
+	"plugin-id": "Text",
+	"sid": 805152657751404,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": []
+}
